@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin: 40px 0 0 0;
+}
+.header-logo {
+    max-width: 533px;
+    min-height: 17px;
+    padding: 40px 0;
+}
+
+.top-wrp {
+    margin: 84px 0 0 0;
+}
+
+.top-content-title {
+    margin: 0 0 17px 0;
+}
+
+.top-content-txt {
+    margin: 0 0 37px 0;
+}
